@@ -1,0 +1,1 @@
+Python implementation of the paper *Generating a Cyclic 2-Gray Code for Lucas Words in Constant Amortized Time (CPM 2025)*.

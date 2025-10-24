@@ -1,0 +1,1 @@
+Python implementation of the paper *Generating Cyclic 2-Gray Codes for Fibonacci q-Decreasing Words (WALCOM 2024)*.
